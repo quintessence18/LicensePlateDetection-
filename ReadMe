@@ -1,1 +1,0 @@
-This repo was my first time using YOLO to build a License Plate Detection program. The program uses CNN, Yolo and OpenCV to detect and recognise a license plate and it's characters.
